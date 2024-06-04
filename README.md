@@ -1,7 +1,10 @@
-# 안녕하세요! 저는 maldonee입니다.👋
+# Hi, I`am maldoneee 👋
 
-## 🔧 기술 스택
+## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, TypeScript, HTML, CSS
 - **Frameworks/Libraries:** React, Next.js
 
-감사합니다!
+## 📫 How to Reach Me
+- **Email:** maldoneee@gmail.com
+
+Thanks for stopping by! 😊
